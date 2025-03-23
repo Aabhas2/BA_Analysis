@@ -69,12 +69,11 @@ pip install pandas numpy matplotlib seaborn scikit-learn nltk
 
 #### **Feature Engineering:**
 - Created new features based on domain knowledge to enhance model performance.
-- Converted categorical variables using encoding techniques.
 
 ### **Sentiment Analysis Insights**
 #### **Sentiment Distribution:**
 - The dataset was analyzed for sentiment (positive, negative, neutral).
-- Majority of sentiments were found to be **[insert majority sentiment]**.
+- Majority of sentiments were found to be **[Neutral]**.
 
 ## Contributing
 Feel free to raise issues or contribute enhancements by submitting a pull request.
